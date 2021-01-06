@@ -1,0 +1,9 @@
+C:\Users\mainuser\documents\visual studio 2010\Projects\VCSmdfDB\VCSmdfDB\bin\Debug\VCSmdfDB.exe
+C:\Users\mainuser\documents\visual studio 2010\Projects\VCSmdfDB\VCSmdfDB\bin\Debug\VCSmdfDB.pdb
+C:\Users\mainuser\documents\visual studio 2010\Projects\VCSmdfDB\VCSmdfDB\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mainuser\documents\visual studio 2010\Projects\VCSmdfDB\VCSmdfDB\obj\x86\Debug\VCSmdfDB.Form1.resources
+C:\Users\mainuser\documents\visual studio 2010\Projects\VCSmdfDB\VCSmdfDB\obj\x86\Debug\VCSmdfDB.Properties.Resources.resources
+C:\Users\mainuser\documents\visual studio 2010\Projects\VCSmdfDB\VCSmdfDB\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\mainuser\documents\visual studio 2010\Projects\VCSmdfDB\VCSmdfDB\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\mainuser\documents\visual studio 2010\Projects\VCSmdfDB\VCSmdfDB\obj\x86\Debug\VCSmdfDB.exe
+C:\Users\mainuser\documents\visual studio 2010\Projects\VCSmdfDB\VCSmdfDB\obj\x86\Debug\VCSmdfDB.pdb
